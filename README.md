@@ -1,8 +1,8 @@
-# Stream Board - Collaborative Real-Time Drawing and Note-Taking
+# Board - Collaborative Real-Time Drawing and Note-Taking
 
-![Stream Board Banner](banner.png)
+![StreamBoard Banner](banner.png)
 
-Stream Board is an interactive web application that enables real-time collaborative drawing, note-taking, and brainstorming. With features like drawing tools, text boxes, sticky note uploads, undo/redo functionality, and live synchronization across multiple browsers, Stream Board provides a seamless and engaging platform for remote teams and individuals to collaborate visually.
+StreamBoard is an interactive web application that enables real-time collaborative drawing, note-taking, and brainstorming. With features like drawing tools, text boxes, sticky note uploads, undo/redo functionality, and live synchronization across multiple browsers, Stream Board provides a seamless and engaging platform for remote teams and individuals to collaborate visually.
 
 ## Features
 
@@ -20,7 +20,7 @@ Stream Board is an interactive web application that enables real-time collaborat
 
 ## How to Use
 
-1. Visit the [Stream Board App](https://your-app-link-here) and create a new board or join an existing one by entering the same URL.
+1. Visit the [StreamBoard App](https://your-app-link-here) and create a new board or join an existing one by entering the same URL.
 
 2. Start drawing, adding text, uploading sticky notes, and collaborating in real-time with other users.
 
