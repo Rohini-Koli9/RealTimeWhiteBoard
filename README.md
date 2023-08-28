@@ -1,7 +1,7 @@
 # StreamBoard - Collaborative Real-Time Drawing and Note-Taking
 
-![StreamBoard Banner](![Screenshot (410)](https://github.com/Rohini-Koli9/StreamBoard/assets/111489763/1c1fc079-5d59-4295-84ea-4d67c415057d)
-)
+![Screenshot (410)](https://github.com/Rohini-Koli9/StreamBoard/assets/111489763/1c1fc079-5d59-4295-84ea-4d67c415057d)
+
 
 StreamBoard is an interactive web application that enables real-time collaborative drawing, note-taking, and brainstorming. With features like drawing tools, text boxes, sticky note uploads, undo/redo functionality, and live synchronization across multiple browsers, Stream Board provides a seamless and engaging platform for remote teams and individuals to collaborate visually.
 
