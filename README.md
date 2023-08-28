@@ -1,4 +1,4 @@
-# Board - Collaborative Real-Time Drawing and Note-Taking
+# StreamBoard - Collaborative Real-Time Drawing and Note-Taking
 
 ![StreamBoard Banner](banner.png)
 
